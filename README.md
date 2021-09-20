@@ -4,7 +4,7 @@
 
 Hi there! 👋
 
-I am Brian Boehm, Web Developer and Blockchain enthusiast with a special interest in full-stack Node.js applications built with either React or Vue.js. ❤️
+I am Brian Boehm, a Web Developer and Blockchain enthusiast who is especially interested in building full-stack Node.js applications with React or Vue.js and Express.js. ❤️
 
 Currently I am working as a front-end developer while studying for a bachelor's degree in web development from Middlesex University London. 🧑‍🎓👨‍💻
 
@@ -13,4 +13,6 @@ I graduated from SAE Institute Hamburg with a diploma degree in web development 
 ## Github Stats ⚡
 ![GitSnake](https://github.com/Zuckerwattederivat/Zuckerwattederivat/blob/output/github-contribution-grid-snake.svg)
 
-[![Zuckerwattederivats's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuckerwattederivat&show_icons=true&bg_color=282E38&hide_border=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Zuckerwattederivats's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zuckerwattederivat&show_icons=true&&hide_border=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Zuckerwattederivats's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zuckerwattederivat&hide_border=true&backround=282E38&theme=vue-dark)](https://git.io/streak-stats)
