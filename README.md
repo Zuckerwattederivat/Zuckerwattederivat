@@ -4,7 +4,7 @@
 
 Hi there! 👋
 
-I am Brian Boehm, a Web Developer and Blockchain enthusiast who is especially interested in building full-stack Node.js applications with React or Vue.js and Express.js. ❤️
+I am a full-stack web developer and blockchain enthusiast who is especially interested in building scalable Node.js applications with React or Vue.js and Express.js. ❤️
 
 Currently I am working as a front-end developer while studying for a bachelor's degree in web development from Middlesex University London. 🧑‍🎓👨‍💻
 
@@ -84,3 +84,8 @@ I graduated from SAE Institute Hamburg with a diploma degree in web development 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+## Favorite Cryptos 🔥
+![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
