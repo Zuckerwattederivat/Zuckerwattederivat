@@ -4,7 +4,7 @@
 
 Hi there! 👋
 
-I am a full-stack web developer and Blockchain enthusiast who is especially interested in building scalable Node.js applications with React or Vue.js and Express.js. ❤️
+I am a full-stack web developer and blockchain enthusiast who is especially interested in building scalable Node.js applications with React or Vue.js and Express.js. ❤️
 
 Currently I am working as a front-end developer while studying for a bachelor's degree in web development from Middlesex University London. 🧑‍🎓👨‍💻
 
