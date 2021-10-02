@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=34D058&multiline=true&height=160&lines=const+greeting+%3D+'Hello+World!';class+Zuckerwattederivat+%3D+%7B;static+name+%3D+'Brian+Boehm';location+%3D+'Hamburg%2C+Germany';currentOccupation+%3D+'Front-end+Developer';%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=34D058&multiline=true&height=160&lines=const+greeting+%3D+'Hello+World!';class+Zuckerwattederivat+%3D+%7B;name+%3D+'Brian+Boehm';location+%3D+'Hamburg%2C+Germany';currentOccupation+%3D+'Front-end+Developer';%7D)](https://git.io/typing-svg)
 
 ## About me ✨
 
