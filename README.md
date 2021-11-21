@@ -6,7 +6,7 @@ Hi there! 👋
 
 I am a full stack web developer and blockchain enthusiast who is especially interested in building scalable Node.js applications with React or Vue.js and Express.js. ❤️
 
-Currently I am working as a front end developer while studying for a bachelor's degree in web development from Middlesex University London. 🧑‍🎓👨‍💻
+Currently I am working as a frontend developer while studying for a bachelor's degree in web development from Middlesex University London. 🧑‍🎓👨‍💻
 
 I graduated from SAE Institute Hamburg with a diploma degree in web development and design. 🎓
 
