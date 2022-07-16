@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=34D058&multiline=true&height=160&lines=const+greeting+%3D+'Hello+World!';class+Zuckerwattederivat+%7B;name+%3D+'Brian+Boehm';location+%3D+'Hamburg%2C+Germany';currentOccupation+%3D+'Front-end+Developer';%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=34D058&multiline=true&height=160&lines=const+greeting+%3D+'Hello+World!';class+Zuckerwattederivat+%7B;name+%3D+'Brian+Boehm';location+%3D+'Hamburg%2C+Germany';currentOccupation+%3D+'Software+Developer';%7D)](https://git.io/typing-svg)
 
 ## About me ✨
 
@@ -6,9 +6,9 @@ Hi there! 👋
 
 I am a full stack web developer and blockchain enthusiast who is especially interested in building scalable Node.js applications with React or Vue.js and Express.js. ❤️
 
-Currently I am working as a frontend developer while studying for a bachelor's degree in web development from Middlesex University London. 🧑‍🎓👨‍💻
+Currently I am working as a software developer while studying for a bachelor's degree in web development from Middlesex University London. 🧑‍🎓👨‍💻
 
-I graduated from SAE Institute Hamburg with a diploma degree in web development and design. 🎓
+Additionaly I'm a core developer at [oceanpearl.io](https://oceanpearl.io), an open source project tracking platform for the Ocean Protocol space. See our code [here (Frontend)](https://github.com/ocean-tech-ship/ocean-pearl) and [here (Backend)](https://github.com/ocean-tech-ship/ocean-pearl-api).
 
 ## Connect with me 🔗
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brianbhm)
@@ -84,6 +84,7 @@ I graduated from SAE Institute Hamburg with a diploma degree in web development 
 
 ### Currently learning 👨‍🎓
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![NestJs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ## Favorite Cryptos 🔥
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
