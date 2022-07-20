@@ -8,7 +8,7 @@ I am a full stack web developer and blockchain enthusiast who is especially inte
 
 Currently I am working as a software developer while studying for a bachelor's degree in web development from Middlesex University London. 🧑‍🎓👨‍💻
 
-Additionaly I'm a core developer at [oceanpearl.io](https://oceanpearl.io), an open source project tracking platform for the Ocean Protocol space. See our code [here (Frontend)](https://github.com/ocean-tech-ship/ocean-pearl) and [here (Backend)](https://github.com/ocean-tech-ship/ocean-pearl-api).
+Additionaly I'm a core developer at [oceanpearl.io](https://oceanpearl.io), an open source project tracking platform for the Ocean Protocol ecosystem. Have a look at our code [here (Frontend)](https://github.com/ocean-tech-ship/ocean-pearl) and [here (Backend)](https://github.com/ocean-tech-ship/ocean-pearl-api).
 
 ## Connect with me 🔗
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brianbhm)
