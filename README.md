@@ -1,14 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=34D058&multiline=true&height=160&lines=const+greeting+%3D+'Hello+World!';class+Zuckerwattederivat+%7B;name+%3D+'Brian+Boehm';location+%3D+'Hamburg%2C+Germany';currentOccupation+%3D+'Software+Developer';%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=34D058&multiline=true&height=160&lines=const+greeting+%3D+'Hello+World!';class+Zuckerwattederivat+%7B;name+%3D+'Brian+Boehm';location+%3D+'Hamburg%2C+Germany';currentOccupation+%3D+'Software+Engineer';%7D)](https://git.io/typing-svg)
 
 ## About me ✨
 
 Hi there! 👋
 
-I am a full stack web developer and blockchain enthusiast who is especially interested in building scalable Node.js applications with React or Vue.js and Express.js. ❤️
+I'm a front-end focused, full-stack engineer building beautiful web apps since 2019. 👷🏻‍♂️🔧🤩💻
 
-Currently I am working as a software developer while studying for a bachelor's degree in web development from Middlesex University London. 🧑‍🎓👨‍💻
-
-Additionaly I'm a core developer at [oceanpearl.io](https://oceanpearl.io), an open source project tracking platform for the Ocean Protocol ecosystem. Have a look at our code [here (Frontend)](https://github.com/ocean-tech-ship/ocean-pearl) and [here (Backend)](https://github.com/ocean-tech-ship/ocean-pearl-api).
+My passion and focus is to evolve the World Wide Web, making it better looking, more responsive, more accessible and more secure. ✨📱♿️🔐
 
 ## Connect with me 🔗
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brianbhm)
@@ -51,6 +49,8 @@ Additionaly I'm a core developer at [oceanpearl.io](https://oceanpearl.io), an o
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![NestJs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
@@ -81,10 +81,6 @@ Additionaly I'm a core developer at [oceanpearl.io](https://oceanpearl.io), an o
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-### Currently learning 👨‍🎓
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![NestJs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ## Favorite Cryptos 🔥
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
